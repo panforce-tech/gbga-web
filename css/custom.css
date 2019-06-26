@@ -156,6 +156,7 @@ h6 {
 	font-weight: 600;
 	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
+	color:#ffffff;
 }
 .section-heading {
 	margin-bottom: 35px;
@@ -188,7 +189,8 @@ h6 {
 
 /*---- Bg colors -----*/
 .bg-blue {
-	background: #edf5ff!important;
+	background: #16256E!important;
+	color: #ffffff;
 }
 .bg-white {
 	background: #fff;
@@ -770,7 +772,7 @@ h6 {
 .work_number h5 {
     font-size: 26px !important;    
     color: #fff;
-    background-color: #789ECF;
+    background-color: #16256E;
     display: inline-block;
     text-align: center;
     width: 48px;
@@ -1371,7 +1373,7 @@ h6 {
 		text-align: center;
 	}
 	.tagline {
-		font-size: 34px;
+		font-size: 34px; 
 	}
 	.section-heading h1 {
 		font-size: 29px;
